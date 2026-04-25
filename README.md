@@ -17,7 +17,7 @@
 
 ### Connect With Me
 
-- Email: [ingyinphyu2501@example.com](mailto:ingyinphyu2501@example.com)
+- Email: [ingyinphyu2501@gmail.com](mailto:ingyinphyu2501@gmail.com)
 
 
 
