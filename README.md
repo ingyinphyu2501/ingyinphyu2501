@@ -11,7 +11,8 @@
 - Languages: PHP, Python, Java, Javascript </br>
 - Framework: Laravel, Django, Bootstrap </br>
 - Database: MySQL </br>
-- Tools: VS Code, PyCharm, Eclipse, MAMP, Draw.io, Postman </br>
+- Tools: Git, VS Code,Draw.io, Postman </br>
+- Currently Learning: Workflow Automation </br>   
 
 ---
 
