@@ -8,7 +8,7 @@
 
 ### Tech Stack
 
-- Languages: PHP, Python, Java, HTML, CSS, Javascript </br>
+- Languages: PHP, Python, Java, Javascript </br>
 - Framework: Laravel, Django, Bootstrap </br>
 - Database: MySQL </br>
 - Tools: VS Code, PyCharm, Eclipse, MAMP, Draw.io, Postman </br>
