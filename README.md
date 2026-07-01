@@ -12,7 +12,6 @@
 - Framework: Laravel, Django, Bootstrap </br>
 - Database: MySQL </br>
 - Tools: Git, VS Code, Draw.io, Postman </br>
-- Currently Learning: Workflow Automation </br>   
 
 ---
 
